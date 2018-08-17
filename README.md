@@ -1,4 +1,6 @@
-Hi everyone, this is Victor from Google, a software engineer on Google's WikiKnowledge team. 
+Hi Wikipedians, 
+
+This is Victor from Google, a software engineer on Google's WikiKnowledge team. 
 
 Being a Wikipedian myself, I have always wished to contribute to Google's efforts in helping an open knowledge ecosystem including projects like Wikipedia through its content. And yet we wanna make sure it follows the rules established by Wikipedia community, such as [[WP:COI]] and [[WP:NPOV]]. I am happy to report to you, thanks to co-workers and my efforts, we are able to produce some useful data, based purely on what's publicly accessible on Wikipedia.org, that we believe might be useful for Wikipedia and its sister projects. Here are the first dataset: Conflicting Birthdates across Wikipedias. 
 
@@ -14,5 +16,5 @@ While we won't be writing or changing any Wikipedia content directly in order to
 
 If you have any question, comment or advice, please let us know by leaving message here in the discussion page.
 
-Licensing
-Copyright is hereby granted under CC BY-SA 3.0
+## Licensing
+Copyright is hereby granted under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
