@@ -14,6 +14,8 @@ While we won't be writing or changing any Wikipedia content directly in order to
 2. Building bot to massive fix the data.
 3. Identify pages that are more prone to be vandalized.
 
+Please note these datasets (and our infra to generate them) are still in beta. We will keep improving the precision and recall of the data quality onwards.
+
 If you have any question, comment or advice, please let us know by leaving message here in the discussion page.
 
 ## Licensing
